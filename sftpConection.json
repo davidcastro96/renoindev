@@ -1,0 +1,10 @@
+{
+    "name": "FTP renoindev",
+    "host": "ftp.renoindev.com",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "administrador@renoindev.com",
+    "password": "kAvJwECa3OLk",
+    "remotePath": "/",
+    "uploadOnSave": true
+}
